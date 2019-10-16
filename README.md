@@ -6,7 +6,7 @@ https://learn.bu.edu/bbcswebdav/pid-7388156-dt-content-rid-33552699_1/courses/19
 
 Problem 1 (URL Splitting): McKenzie Joyce
 
-Problem 2 (Area and Perimeter/Circumference):
+Problem 2 (Area and Perimeter/Circumference): Andrew Spencer
 
 Problem 3 (String multiplication):
 
