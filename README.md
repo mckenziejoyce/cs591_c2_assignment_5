@@ -8,6 +8,6 @@ Problem 1 (URL Splitting): McKenzie Joyce
 
 Problem 2 (Area and Perimeter/Circumference): Andrew Spencer
 
-Problem 3 (String multiplication):
+Problem 3 (String multiplication): Farheen Rahman
 
 Problem 4 (First missing positive integer):
